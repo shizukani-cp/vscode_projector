@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.defaultProfile.windows": "PowerShell 7",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell 7": {
+            "path": "C:/Users/proch/Desktop/apps/PowerShell/pwsh.exe",
+            "args": [],
+            "overrideName": true,
+            "env": {},
+            "icon": "terminal-powershell"
+        }
+    }
+}
