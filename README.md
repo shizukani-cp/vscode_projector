@@ -1,3 +1,3 @@
 # vscode-projector
-
-Describe your project here.
+## 概要
+素の状態でいろいろなものを保存していたら、容量がたくさん食われてしまって困ったので、プロジェクトをZIPにまとめることにしました。
