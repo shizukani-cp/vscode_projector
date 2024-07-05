@@ -9,3 +9,9 @@
 #   generate-hashes: false
 
 -e file:.
+pyasn1==0.6.0
+    # via rsa
+pysimplegui==5.0.6
+    # via vscode-projector
+rsa==4.9
+    # via pysimplegui

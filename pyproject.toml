@@ -5,7 +5,9 @@ description = "Add your description here"
 authors = [
     { name = "shizukani-cp", email = "to.maimai0606@gmail.com" }
 ]
-dependencies = []
+dependencies = [
+    "pysimplegui>=5.0.6",
+]
 readme = "README.md"
 requires-python = ">= 3.8"
 
